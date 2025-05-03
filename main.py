@@ -31,4 +31,3 @@ bc.add_block('3')
 
 for block in bc.chain:
     print(block.__dict__)
-
